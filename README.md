@@ -1,6 +1,6 @@
 # challengeAlkemi2
 
-Challenge individual de alkemi en crear  una aplicacion tipo Apo Rest. 
+Challenge individual de alkemi en crear  una aplicacion tipo Api Rest. 
 Videos mostrando como funciona:
 video1
 https://www.loom.com/share/8ac9c449af1f44d2a31ef1f8b732fe7f
